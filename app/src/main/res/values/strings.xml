@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">basicAlaramClock</string>
+    <string name="set_time">SET_TIME</string>
+    <string name="stop">STOP</string>
+
+</resources>
+
